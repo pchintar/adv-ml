@@ -1,0 +1,5 @@
+max_iters: 1000
+avg norm:
+successful: ~20
+unsuccessful: ~55
+images_changed: 11329
